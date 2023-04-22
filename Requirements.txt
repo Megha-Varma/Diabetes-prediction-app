@@ -1,0 +1,19 @@
+1.) Requests - The requests module allows one to send HTTPrequests using Python
+
+2.) Pandas - an open source Python librarythat is used within the data science and data analysis industry. 
+
+3.) NumPy - it is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. 
+
+4.) Scikit-learn (Sklearn) - it is one of the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
+
+5.) Seaborn- it is a library mostly used for statistical plotting in Python. It is built on top of Matplotlib and provides beautiful default styles and color palettes to make statistical plots more attractive.
+
+6.) Matplotlib- it is an amazing visualization library in Python for 2D plots of arrays. 
+
+7.) XGBoost- it is an implementation of gradient boosted decision trees designed for speed and performance that is dominative competitive machine learning.
+
+8.) Pickle - The pickle module implements binary protocols for serializing and de-serializing a Python object structure.
+
+9.) Tkinter - it is the most commonly used library for developing GUI (Graphical User Interface) in Python.
+
+10.) PIL - it is an imaging library for python programming language.
