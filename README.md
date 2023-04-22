@@ -1,5 +1,4 @@
-# Diabetes-prediction-app[Read me.pdf](https://github.com/Megha-Varma/Diabetes-prediction-app/files/11301816/Read.me.pdf)
-
+# Diabetes-prediction-app
 Project objective:-
 
 About 422 million people worldwide have diabetes, and these numbers are gradually increasing. It is no doubt that prevention is better than cure, so people who have the required data at hand can use this app for early-stage prediction and hence know to take steps to keep the disease in control. This app uses BMI, Age, and number of pregnancies incurred as determining parameters and determines whether a person has diabetes or not. If diabetes is detected, it suggests to the user further steps which they can use to help with their condition, and in case of diabetes is not detected, it still suggests some steps that can be taken by the person to maintain a healthy lifestyle.
