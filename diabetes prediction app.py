@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 import seaborn as sns
 
 
-diabetes_df = pd.read_csv('C:/Users/niles/OneDrive/Documents/Megha/clevered internship programme/Diabetes prediction app/Dataset/diabetes (2) - Copy - Copy.csv')
+diabetes_df = pd.read_csv('Dataset/diabetes.csv')
 diabetes_df.head()
 
 diabetes_df.columns
@@ -292,7 +292,7 @@ def open_Toplevel1():
     canvas2.create_window(680,10, window=button1) 
     
 
-    img = ImageTk.PhotoImage(Image.open("C:/Users/niles/OneDrive/Documents/Megha/clevered internship programme/Diabetes prediction app/images/resized.jpg"))   
+    img = ImageTk.PhotoImage(Image.open("images/resized.jpg"))   
 
     label2 = tk.Label(top1, width=345, height=495, image = img)
     canvas2.create_window(180,250, window=label2)  
@@ -327,7 +327,7 @@ def open_Toplevel2():
     canvas3.create_window(680,10, window=button1) 
     
 
-    img = ImageTk.PhotoImage(Image.open("C:/Users/niles/OneDrive/Documents/Megha/clevered internship programme/Diabetes prediction app/images/Diabetes-Infographic RESIZED.jpg"))   
+    img = ImageTk.PhotoImage(Image.open("images/Diabetes-Infographic RESIZED.jpg"))   
 
     label2 = tk.Label(top2, width=345, height=495, image = img)
     canvas3.create_window(180,250, window=label2)  
